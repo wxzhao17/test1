@@ -1,0 +1,26 @@
+---
+title: "PSY6422_TEST"
+author: "W. Zhao"
+date: "2021/4/28"
+output: html_document
+---
+
+# **1 Introduction**
+- - - 
+## 1.1 *Background*
+## 1.2 *Research Questions*
+
+# **2 Data Screening and Cleaning**
+_ _ _ 
+```{r}
+require(tidyverse)
+data0<-read.csv("train_age_dataset.csv")
+head(data0)
+```
+
+# **3 Visualizations**
+- - -
+
+
+# **4 Summary**
+- - - 
